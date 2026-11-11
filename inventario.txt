@@ -13,3 +13,7 @@ Cantidad: 5
 Producto: Memoria USB
 Precio: 10000
 Cantidad: 25
+
+producto: Impresora
+ precio: 350000
+ cantidad: 3
