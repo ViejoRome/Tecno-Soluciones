@@ -13,3 +13,7 @@ Cantidad: 5
 Producto: Memoria USB
 Precio: 10000
 Cantidad: 25
+
+Producto: monitor
+Precio: 550000
+Cantidad: 5
