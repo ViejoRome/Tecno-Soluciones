@@ -14,6 +14,12 @@ Producto: Memoria USB
 Precio: 10000
 Cantidad: 25
 
+<<<<<<< HEAD
 Producto: monitor
 Precio: 550000
 Cantidad: 5
+=======
+producto: Impresora
+ precio: 350000
+ cantidad: 3
+>>>>>>> origin/romediz
